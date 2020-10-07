@@ -1,0 +1,73 @@
+<resources>
+    <string name="app_name">Brihha</string>
+    <string name="new_here_create_an_account">New here? <u>Create an account</u></string>
+    <string name="term_of_use">Term of Use</string>
+    <string name="loremipsum_test_com">loremipsum@test.com</string>
+    <string name="welcome">Welcome</string>
+    <string name="enter_your_email_to_sign_in_n_to_your_account">Enter your email to sign in \n to your account</string>
+    <string name="sign_in">Sign in</string>
+    <string name="domain">Domain</string>
+    <string name="next">Next</string>
+    <string name="register_for_course_site">Register \n for<b> Course Site</b></string>
+    <string name="confirm_email_address">Confirm Email Address</string>
+    <string name="email_address">Email</string>
+    <string name="organization">Organization</string>
+    <string name="registering_as">Registering as</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="phone">Phone</string>
+    <string name="username">Username</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="password">Password</string>
+    <string name="education_level">Education Level</string>
+    <string name="skills">Skills</string>
+    <string name="experience">Experience</string>
+    <string name="create_account">Create account</string>
+    <string name="have_an_account">Have an account?</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="enter_your_password_to_sign_in_with">Enter your password to sign in with  </string>
+
+    <string-array name="education">
+
+        <item> No formal education</item>
+        <item>Primary education</item>
+        <item>Secondary education or high school</item>
+        <item>GED</item>
+        <item>Vocational qualification</item>
+        <item>Bachelor\'s degree</item>
+        <item>Master\'s degree</item>
+        <item>Doctorate or higher</item>
+        <item>Other</item>
+    </string-array>
+
+    <string-array name="roles">
+        <item>Trainer</item>
+        <item>Learner</item>
+    </string-array>
+
+    <string-array name="experience">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+
+    </string-array>
+
+
+</resources>
